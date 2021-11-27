@@ -1,0 +1,2 @@
+o carro estará mais perto de frança do que o caminhão de riberão preto.
+utilizando da logica que o carro está mais rapido que o caminhão e que as 2 padaras custarão 13km para o caminhão.

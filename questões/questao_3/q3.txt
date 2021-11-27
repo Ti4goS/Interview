@@ -1,0 +1,7 @@
+3)
+a) 9 - numeros impares.
+b) 128 - o numero anterior vezes ele mesmo.
+c) 49 - o quadrado perfeito seguinte (7x7, 8x8...).
+d) 100 - 4x Os quadrados perfeitos (4x25=100...).
+e) 13 - Sequencia de Fibonacci.
+f) 200 - numeros que começam com a letra D.
